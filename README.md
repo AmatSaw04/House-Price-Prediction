@@ -1,1 +1,2 @@
 # House-Price-Prediction
+ Developed a multivariable regression model to estimate residential property prices based on various characteristics (e.g., number of rooms, distance to employment centers, poverty levels). Analyzed and explored Boston house price data, split data for training and testing, and used data transformation techniques to improve model performance and accurately predict property values
